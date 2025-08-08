@@ -1,3 +1,11 @@
+
+
+https://github.com/user-attachments/assets/d7fe6842-df10-478b-9169-509b7d8ef655
+
+
+
+https://github.com/user-attachments/assets/b081153b-09f5-46eb-a9a4-1ee41651387a
+
 # ☕ Espresso - Real-Time Chat Application
 
 A modern, real-time chat application built with React, Node.js, Socket.IO, and MongoDB. Features include multi-user chat rooms, typing indicators, online user tracking, and persistent message history.
